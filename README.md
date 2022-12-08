@@ -1,1 +1,3 @@
-# Dilute My Search History
+# Dilute My Search History Project (DMSH)
+License : GNU License
+# install
