@@ -1,0 +1,1 @@
+ping -s 1 -c 1 8.8.8.8 && ping -s 1 -c 1 1.1.1.1 && ping -s 1 -c 1 example.com && ping -s 1 -c 1 view.cat && ping -s 1 -c 1 fjwoxj29.me.com && ping -s 1 -c 1 dns.google.com && ping -s 1 -c 1 javascript.com && ping -s 1 -c 1 do.am && ping -s 1 -c 1 youtube.com && ping -s 1 -c 1 linux.com && ping -s 1 -c 1 example.site && ping -s 1 -c 1 zettry.cool.people
